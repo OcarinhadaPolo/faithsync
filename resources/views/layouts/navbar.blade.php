@@ -26,7 +26,7 @@
             <li class="mx-4 px-6 border-gold-left">
                 <a href="#" class="flex items-center py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-custom-gold md:p-0 ">
                     <img src="{{ asset('images/user-icon.png') }}" class="w-4 h-4 mr-2" alt="Ícone de usuário">
-                    <span>Minha Contas</span>
+                    <span>Minha Conta</span>
                 </a>
             </li>
         </ul>
